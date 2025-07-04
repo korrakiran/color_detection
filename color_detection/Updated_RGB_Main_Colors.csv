@@ -1,0 +1,32 @@
+Main Color,Red,Green,Blue
+Red,255,0,0
+Green,0,128,0
+Blue,0,0,255
+Black,0,0,0
+White,255,255,255
+Yellow,255,255,0
+Cyan,0,255,255
+Magenta,255,0,255
+Orange,255,165,0
+Pink,255,192,203
+Brown,139,69,19
+Gray,128,128,128
+Light Blue,173,216,230
+Dark Blue,0,0,139
+Light Green,144,238,144
+Dark Green,0,100,0
+Light Gray,211,211,211
+Dark Gray,64,64,64
+Sky Blue,135,206,235
+Navy Blue,0,0,128
+Teal,0,128,128
+Maroon,128,0,0
+Olive,128,128,0
+Purple,128,0,128
+Gold,255,215,0
+Beige,245,245,220
+Coral,255,127,80
+Turquoise,64,224,208
+Indigo,75,0,130
+Lime,0,255,0
+Lavender,230,230,250
