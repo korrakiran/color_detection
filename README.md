@@ -45,6 +45,11 @@ pip install opencv-python mediapipe pandas imutils gTTS pygame numpy
 ```bash
 python detect.py
 ```
+## Or can use this
+
+```bash
+python backup.py
+```
 
 Make sure your webcam is enabled. Point your index finger to an object. The script will say the color name out loud.
 
