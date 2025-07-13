@@ -71,8 +71,8 @@ while True:
             x = int(hand_landmarks.landmark[8].x * w)
             y = int(hand_landmarks.landmark[8].y * h)
 
-            x1, y1 = max(0, x - 15), max(0, y - 15)
-            x2, y2 = min(w, x + 15), min(h, y + 15)
+            x1, y1 = max(0, x - 15), max(0, y - 15)+30
+            x2, y2 = min(w, x + 15), min(h, y + 15)+30
             roi = frame[y1:y2, x1:x2]
 
             if roi.size != 0:
